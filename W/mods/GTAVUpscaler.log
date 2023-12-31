@@ -1,0 +1,22 @@
+[info] FiveM_b2699_GTAProcess.exe
+[info] Loaded C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\mods\UpscalerBasePlugin\Streamline\sl.interposer.dll
+[info] Start hooking
+[info] ReShade detected!
+[info] ReShade detected as dxgi.asi!
+[info] Installed upscaler hooks
+[info] register_addon_events
+[info] hk_CreateDXGIFactory1 sl::RenderAPI::eD3D11
+[info] SL not initialised or DLSSG not available.
+[info] hk_D3D11CreateDevice pDevice=0x266842c87f8 pAdapter=0x266855d5c10
+[info] hk_IDXGIFactory2_CreateSwapChainForHwnd pDevice=0x266842c87f8 pAdapter=0x266855d5c10
+[info] DLSS is supported on this system.
+[info] Reflex is supported on this system.
+[error] Error: eErrorFeatureMissing encountered in slIsFeatureSupported_DLSSG
+[info] Error: eErrorFeatureMissing encountered in slIsFeatureSupported_DLSSG
+[info] DLSS-G is not fully functional on this system.
+[info] hk_IDXGIFactory2_CreateSwapChainForHwnd created original SwapChain : 1920 x 1080 Format: 87 BufferCount: 2
+[info] UpdateRenderSize 3840x2160
+[info] Detouring virtual function tables
+[info] Searching and detouring game fuctions
+[info] Detouring done
+[info] UpdateRenderSize 4800x2700
