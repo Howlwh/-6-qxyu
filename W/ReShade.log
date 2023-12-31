@@ -1,0 +1,494 @@
+14:40:10:900 [03216] | INFO  | Initializing crosire's ReShade version '5.9.2.16' (64-bit) loaded from "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\dxgi.asi" into "C:\Users\James\AppData\Local\FiveM\FiveM.exe"  ...
+14:40:10:901 [03216] | INFO  | Registering hooks for "user32.dll" ...
+14:40:10:902 [03216] | INFO  | > Libraries loaded.
+14:40:10:902 [03216] | INFO  | > Found 14 match(es). Installing ...
+14:40:10:903 [03216] | INFO  | Registering hooks for "C:\Windows\system32\dinput.dll" ...
+14:40:10:903 [03216] | INFO  | > Delayed.
+14:40:10:903 [03216] | INFO  | Registering hooks for "C:\Windows\system32\d2d1.dll" ...
+14:40:10:904 [03216] | INFO  | > Libraries loaded.
+14:40:10:904 [03216] | INFO  | > Found 2 match(es). Installing ...
+14:40:10:904 [03216] | INFO  | Registering hooks for "C:\Windows\system32\d3d9.dll" ...
+14:40:10:904 [03216] | INFO  | > Libraries loaded.
+14:40:10:904 [03216] | INFO  | > Found 11 match(es). Installing ...
+14:40:10:905 [03216] | INFO  | Registering hooks for "C:\Windows\system32\d3d10.dll" ...
+14:40:10:905 [03216] | INFO  | > Libraries loaded.
+14:40:10:905 [03216] | INFO  | > Found 2 match(es). Installing ...
+14:40:10:905 [03216] | INFO  | Registering hooks for "C:\Windows\system32\d3d10_1.dll" ...
+14:40:10:905 [03216] | INFO  | > Libraries loaded.
+14:40:10:906 [03216] | INFO  | > Found 2 match(es). Installing ...
+14:40:10:906 [03216] | INFO  | Registering hooks for "C:\Windows\system32\d3d11.dll" ...
+14:40:10:906 [03216] | INFO  | > Libraries loaded.
+14:40:10:906 [03216] | INFO  | > Found 3 match(es). Installing ...
+14:40:10:906 [03216] | INFO  | Registering hooks for "C:\Windows\system32\d3d12.dll" ...
+14:40:10:907 [03216] | INFO  | > Delayed.
+14:40:10:907 [03216] | INFO  | Registering hooks for "C:\Windows\system32\dxgi.dll" ...
+14:40:10:907 [03216] | INFO  | > Delayed until first call to an exported function.
+14:40:10:907 [03216] | INFO  | Registering hooks for "vrclient_x64.dll" ...
+14:40:10:907 [03216] | INFO  | > Delayed.
+14:40:10:908 [03216] | INFO  | Initialized.
+14:40:10:931 [39676] | INFO  | Installing delayed hooks for "C:\Windows\system32\dxgi.dll" (Just loaded via LoadLibrary("api-ms-win-core-synch-l1-2-0")) ...
+14:40:10:932 [39676] | INFO  | > Found 5 match(es). Installing ...
+14:40:11:391 [03216] | INFO  | Registered add-on "GTA V Upscaler" v1.0.0.0 using ReShade API version 8.
+14:40:11:811 [03216] | INFO  | Redirecting CreateDXGIFactory1(riid = {7B7166EC-21C7-44AE-B21A-C9AE321AE369}, ppFactory = 0000008EEE57E2C0) ...
+14:40:11:818 [03216] | INFO  | Installing delayed hooks for "C:\Windows\system32\d3d12.dll" (Just loaded via LoadLibrary("C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\mods\UpscalerBasePlugin\Streamline\/sl.common.dll")) ...
+14:40:11:818 [03216] | INFO  | > Found 8 match(es). Installing ...
+14:40:11:842 [03216] | INFO  | Redirecting CreateDXGIFactory1(riid = {7B7166EC-21C7-44AE-B21A-C9AE321AE369}, ppFactory = 0000008EEE57CFE0) ...
+14:40:12:878 [03216] | INFO  | Redirecting D3D11CreateDevice(pAdapter = 0000000000000000, DriverType = 1, Software = 0000000000000000, Flags = 0, pFeatureLevels = 0000000000000000, FeatureLevels = 0, SDKVersion = 7, ppDevice = 0000000000000000, pFeatureLevel = 0000008EEE57E2C8, ppImmediateContext = 0000000000000000) ...
+14:40:12:881 [03216] | INFO  | > Passing on to D3D11CreateDeviceAndSwapChain:
+14:40:12:881 [03216] | INFO  | Redirecting D3D11CreateDeviceAndSwapChain(pAdapter = 0000000000000000, DriverType = 1, Software = 0000000000000000, Flags = 0, pFeatureLevels = 0000000000000000, FeatureLevels = 0, SDKVersion = 7, pSwapChainDesc = 0000000000000000, ppSwapChain = 0000000000000000, ppDevice = 0000000000000000, pFeatureLevel = 0000008EEE57E2C8, ppImmediateContext = 0000000000000000) ...
+14:40:12:881 [03216] | INFO  | Redirecting CreateDXGIFactory1(riid = {770AAE78-F26F-4DBA-A829-253C83D1B387}, ppFactory = 0000008EEE57DAB0) ...
+14:40:12:896 [03216] | INFO  | Using feature level 0xb000.
+14:40:12:987 [03216] | INFO  | Redirecting CreateDXGIFactory1(riid = {7B7166EC-21C7-44AE-B21A-C9AE321AE369}, ppFactory = 0000008EEE57E378) ...
+14:40:12:994 [03216] | INFO  | Redirecting D3D11CreateDevice(pAdapter = 0000000000000000, DriverType = 1, Software = 0000000000000000, Flags = 0, pFeatureLevels = 0000000000000000, FeatureLevels = 0, SDKVersion = 7, ppDevice = 0000000000000000, pFeatureLevel = 0000008EEE57E168, ppImmediateContext = 0000000000000000) ...
+14:40:12:994 [03216] | INFO  | > Passing on to D3D11CreateDeviceAndSwapChain:
+14:40:12:994 [03216] | INFO  | Redirecting D3D11CreateDeviceAndSwapChain(pAdapter = 0000000000000000, DriverType = 1, Software = 0000000000000000, Flags = 0, pFeatureLevels = 0000000000000000, FeatureLevels = 0, SDKVersion = 7, pSwapChainDesc = 0000000000000000, ppSwapChain = 0000000000000000, ppDevice = 0000000000000000, pFeatureLevel = 0000008EEE57E168, ppImmediateContext = 0000000000000000) ...
+14:40:12:994 [03216] | INFO  | Redirecting CreateDXGIFactory1(riid = {770AAE78-F26F-4DBA-A829-253C83D1B387}, ppFactory = 0000008EEE57D950) ...
+14:40:13:004 [03216] | INFO  | Using feature level 0xb000.
+14:40:13:012 [41680] | INFO  | Redirecting RegisterClassW(lpWndClass = 0000008EF967ECB0 { "grcWindow", style = 0x8 }) ...
+14:40:13:012 [41680] | INFO  | > Adding 'CS_OWNDC' window class style flag to "grcWindow".
+14:40:13:014 [41680] | INFO  | Redirecting CreateDXGIFactory1(riid = {770AAE78-F26F-4DBA-A829-253C83D1B387}, ppFactory = 0000008EF967E700) ...
+14:40:13:014 [41680] | INFO  | Redirecting D3D11CreateDevice(pAdapter = 00000266855D5C10, DriverType = 0, Software = 0000000000000000, Flags = 0x20, pFeatureLevels = 0000008EF967EDC0, FeatureLevels = 3, SDKVersion = 7, ppDevice = 00007FF63222A260, pFeatureLevel = 0000008EF967F700, ppImmediateContext = 00007FF63222A268) ...
+14:40:13:015 [41680] | INFO  | > Passing on to D3D11CreateDeviceAndSwapChain:
+14:40:13:015 [41680] | INFO  | Redirecting D3D11CreateDeviceAndSwapChain(pAdapter = 00000266855D5C10, DriverType = 0, Software = 0000000000000000, Flags = 0x20, pFeatureLevels = 0000008EF967EDC0, FeatureLevels = 3, SDKVersion = 7, pSwapChainDesc = 0000000000000000, ppSwapChain = 0000000000000000, ppDevice = 00007FF63222A260, pFeatureLevel = 0000008EF967F700, ppImmediateContext = 00007FF63222A268) ...
+14:40:13:056 [41680] | INFO  | Using feature level 0xb000.
+14:40:13:057 [41680] | INFO  | Searching for add-ons (*.addon, *.addon64) in "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins" ...
+14:40:13:710 [41680] | INFO  | Redirecting IDXGIFactory2::CreateSwapChainForHwnd(this = 0000026657394D40, pDevice = 00000266842C87F8, hWnd = 0000000000060500, pDesc = 0000008EF967E6F0, pFullscreenDesc = 0000008EF967E9E8, pRestrictToOutput = 0000000000000000, ppSwapChain = 0000008EF967E8F0) ...
+14:40:13:710 [41680] | INFO  | > Dumping swap chain description:
+14:40:13:710 [41680] | INFO  |   +-----------------------------------------+-----------------------------------------+
+14:40:13:710 [41680] | INFO  |   | Parameter                               | Value                                   |
+14:40:13:710 [41680] | INFO  |   +-----------------------------------------+-----------------------------------------+
+14:40:13:710 [41680] | INFO  |   | Width                                   | 1920                                    |
+14:40:13:710 [41680] | INFO  |   | Height                                  | 1080                                    |
+14:40:13:711 [41680] | INFO  |   | RefreshRate                             | 0                   1                   |
+14:40:13:711 [41680] | INFO  |   | Format                                  | DXGI_FORMAT_B8G8R8A8_UNORM              |
+14:40:13:711 [41680] | INFO  |   | Stereo                                  | FALSE                                   |
+14:40:13:711 [41680] | INFO  |   | ScanlineOrdering                        | 0                                       |
+14:40:13:711 [41680] | INFO  |   | Scaling                                 | 0                                       |
+14:40:13:711 [41680] | INFO  |   | SampleCount                             | 1                                       |
+14:40:13:711 [41680] | INFO  |   | SampleQuality                           | 0                                       |
+14:40:13:711 [41680] | INFO  |   | BufferUsage                             | 0x70                                    |
+14:40:13:711 [41680] | INFO  |   | BufferCount                             | 2                                       |
+14:40:13:711 [41680] | INFO  |   | Windowed                                | TRUE                                    |
+14:40:13:712 [41680] | INFO  |   | SwapEffect                              | 0                                       |
+14:40:13:712 [41680] | INFO  |   | AlphaMode                               | 0                                       |
+14:40:13:712 [41680] | INFO  |   | Flags                                   | 0x2                                     |
+14:40:13:712 [41680] | INFO  |   +-----------------------------------------+-----------------------------------------+
+14:40:13:713 [41680] | WARN  | Calling init_swapchain_proxy d3d version 11.
+14:40:13:998 [41680] | INFO  | Running on NVIDIA GeForce RTX 3070 Ti.
+14:40:14:001 [41680] | INFO  | Recreated runtime environment on runtime 0000026691C5C340 ("C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\ReShade.ini").
+14:40:14:405 [41680] | INFO  | Redirecting CreateDXGIFactory1(riid = {7B7166EC-21C7-44AE-B21A-C9AE321AE369}, ppFactory = 0000008EF967F380) ...
+14:40:14:408 [41680] | INFO  | Redirecting D3D11CreateDevice(pAdapter = 0000000000000000, DriverType = 1, Software = 0000000000000000, Flags = 0, pFeatureLevels = 0000000000000000, FeatureLevels = 0, SDKVersion = 7, ppDevice = 0000000000000000, pFeatureLevel = 0000008EF967F388, ppImmediateContext = 0000000000000000) ...
+14:40:14:408 [41680] | INFO  | > Passing on to D3D11CreateDeviceAndSwapChain:
+14:40:14:408 [41680] | INFO  | Redirecting D3D11CreateDeviceAndSwapChain(pAdapter = 0000000000000000, DriverType = 1, Software = 0000000000000000, Flags = 0, pFeatureLevels = 0000000000000000, FeatureLevels = 0, SDKVersion = 7, pSwapChainDesc = 0000000000000000, ppSwapChain = 0000000000000000, ppDevice = 0000000000000000, pFeatureLevel = 0000008EF967F388, ppImmediateContext = 0000000000000000) ...
+14:40:14:408 [41680] | INFO  | Redirecting CreateDXGIFactory1(riid = {770AAE78-F26F-4DBA-A829-253C83D1B387}, ppFactory = 0000008EF967EB70) ...
+14:40:14:546 [41680] | INFO  | Using feature level 0xb000.
+14:40:14:555 [41680] | INFO  | Redirecting RegisterClassExW(lpWndClassEx = 0000008EF967F570 { "ImGui Platform", style = 0x3 }) ...
+14:40:14:555 [41680] | INFO  | > Adding 'CS_OWNDC' window class style flag to "ImGui Platform".
+14:40:14:632 [42756] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\StageDepth.fx" in 0.005 s.
+14:40:14:633 [29832] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\MCAmber.fx" in 0.005 s.
+14:40:14:635 [42668] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Fubax\BlueNoiseMotionBlur.fx" in 0.006 s.
+14:40:14:636 [41352] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\PD80\PD80_04_BlacknWhite.fx" in 0.008 s.
+14:40:14:637 [42268] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\CRT-NewPixie.fx" in 0.009 s.
+14:40:14:637 [29832] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\MCGreen.fx" in 0.004 s.
+14:40:14:638 [34256] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\AstrayFX\Temporal_AA.fx" in 0.01 s.
+14:40:14:639 [52656] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\CorgiFX\CanvasFog.fx" in 0.011 s.
+14:40:14:639 [42756] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\SurfaceBlur.fx" in 0.006 s.
+14:40:14:643 [29832] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\MCOrange.fx" in 0.005 s.
+14:40:14:643 [41352] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\PD80\PD80_04_Color_Balance.fx" in 0.006 s.
+14:40:14:643 [42668] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Fubax\CheckerboardInterlace.fx" in 0.008 s.
+14:40:14:644 [42268] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\CRT-Yee64.fx" in 0.006 s.
+14:40:14:645 [34256] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\AstrayFX\Trails.fx" in 0.006 s.
+14:40:14:646 [42756] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Technicolor.fx" in 0.006 s.
+14:40:14:647 [52656] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\CorgiFX\CanvasMask.fx" in 0.007 s.
+14:40:14:648 [42000] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\AdaptiveSharpen.fx" in 0.009 s.
+14:40:14:648 [42804] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Insane-Shaders\DeepFry.fx" in 0.008 s.
+14:40:14:649 [42668] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Fubax\Chromakey.fx" in 0.006 s.
+14:40:14:650 [42268] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\CRT-Yeetron.fx" in 0.005 s.
+14:40:14:653 [34256] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\OtisFX\AdaptiveFog.fx" in 0.008 s.
+14:40:14:653 [42756] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Technicolor2.fx" in 0.007 s.
+14:40:14:653 [41352] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\PD80\PD80_04_Color_Gradients.fx" in 0.01 s.
+14:40:14:654 [29832] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\mdapt.fx" in 0.01 s.
+14:40:14:655 [52656] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\CorgiFX\ColorMask.fx" in 0.008 s.
+14:40:14:656 [41172] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\GaussianBlur.fx" in 0.016 s.
+14:40:14:657 [42268] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\CRTAperture.fx" in 0.006 s.
+14:40:14:657 [42668] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Fubax\ContrastSharpening.fx" in 0.007 s.
+14:40:14:659 [42756] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Tonemap.fx" in 0.005 s.
+14:40:14:660 [29832] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\MetaCRT.fx" in 0.006 s.
+14:40:14:660 [42000] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\AmbientLight.fx" in 0.011 s.
+14:40:14:660 [41352] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\PD80\PD80_04_Color_Isolation.fx" in 0.006 s.
+14:40:14:661 [52656] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\CorgiFX\Flip.fx" in 0.005 s.
+14:40:14:662 [42268] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\CRTCaligari.fx" in 0.005 s.
+14:40:14:664 [42756] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\UIMask.fx" in 0.005 s.
+14:40:14:666 [29832] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\MMJCelShader.fx" in 0.006 s.
+14:40:14:666 [42000] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\ASCII.fx" in 0.006 s.
+14:40:14:668 [42268] | WARN  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\CRTcgwg.fx" in 0.005 s with warnings:
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\CRTcgwg.fx(108, 14): warning X3206: implicit truncation of vector type
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\CRTcgwg.fx(109, 15): warning X3206: implicit truncation of vector type
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\CRTcgwg.fx(129, 16): warning X3206: implicit truncation of vector type
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\CRTcgwg.fx(129, 36): warning X3206: implicit truncation of vector type
+
+14:40:14:668 [41352] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\PD80\PD80_04_Color_Temperature.fx" in 0.007 s.
+14:40:14:669 [42804] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Insane-Shaders\Dehaze.fx" in 0.02 s.
+14:40:14:670 [42756] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Vibrance.fx" in 0.005 s.
+14:40:14:671 [29832] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\N64_3Point.fx" in 0.004 s.
+14:40:14:671 [42668] | ERROR | Failed to compile "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Fubax\Cursor.fx":
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Fubax\Cursor.fx(40, 1): error X3004: unrecognized property 'Format'
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Fubax\Cursor.fx(40, 1): error X3004: unrecognized property 'Format'
+
+14:40:14:673 [52656] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\CorgiFX\FreezeShot.fx" in 0.011 s.
+14:40:14:674 [42268] | WARN  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\CRTCX.fx" in 0.005 s with warnings:
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\CRTCX.fx(157, 33): warning X3206: implicit truncation of vector type
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\CRTCX.fx(157, 19): warning X3206: implicit truncation of vector type
+
+14:40:14:676 [42756] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Vignette.fx" in 0.005 s.
+14:40:14:676 [34256] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\OtisFX\CinematicDOF.fx" in 0.023 s.
+14:40:14:677 [29832] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\nGlide_3DFX.fx" in 0.005 s.
+14:40:14:677 [42580] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\luluco250\LiquidLens.fx" in 0.012 s.
+14:40:14:678 [42804] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Insane-Shaders\GaussianBlurCS.fx" in 0.008 s.
+14:40:14:678 [42668] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Fubax\FilmicAnamorphSharpen.fx" in 0.006 s.
+14:40:14:678 [41352] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\PD80\PD80_04_Contrast_Brightness_Saturation.fx" in 0.009 s.
+14:40:14:679 [52656] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\CorgiFX\MagnifyingGlass.fx" in 0.006 s.
+14:40:14:680 [42268] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\CRTEasymode.fx" in 0.006 s.
+14:40:14:686 [29832] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\ntsc.fx" in 0.009 s.
+14:40:14:687 [42756] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\warpsharp.fx" in 0.01 s.
+14:40:14:687 [34256] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\OtisFX\DepthDarkness.fx" in 0.01 s.
+14:40:14:688 [42268] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\CRTFakeLottes.fx" in 0.007 s.
+14:40:14:692 [42668] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Fubax\FilmicSharpen.fx" in 0.013 s.
+14:40:14:693 [41352] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\PD80\PD80_04_Magical_Rectangle.fx" in 0.014 s.
+14:40:14:694 [52656] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\CorgiFX\StageDepthPlus.fx" in 0.014 s.
+14:40:14:694 [42000] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\AtmosphericDensity.fx" in 0.028 s.
+14:40:14:695 [34256] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\OtisFX\DepthHaze.fx" in 0.007 s.
+14:40:14:695 [42268] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\CRTGeom.fx" in 0.006 s.
+14:40:14:695 [29832] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\NTSC_RetroArch.fx" in 0.009 s.
+14:40:14:698 [42668] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Fubax\Flipbook.fx" in 0.005 s.
+14:40:14:700 [41352] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\PD80\PD80_04_Saturation_Limit.fx" in 0.006 s.
+14:40:14:701 [42756] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\qUINT\qUINT_bloom.fx" in 0.014 s.
+14:40:14:701 [41172] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Glamayre_Fast_Effects.fx" in 0.045 s.
+14:40:14:702 [42268] | WARN  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\CRTHyllian.fx" in 0.006 s with warnings:
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\CRTHyllian.fx(240, 19): warning X3206: implicit truncation of vector type
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\CRTHyllian.fx(241, 19): warning X3206: implicit truncation of vector type
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\CRTHyllian.fx(242, 19): warning X3206: implicit truncation of vector type
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\CRTHyllian.fx(243, 19): warning X3206: implicit truncation of vector type
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\CRTHyllian.fx(244, 19): warning X3206: implicit truncation of vector type
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\CRTHyllian.fx(245, 19): warning X3206: implicit truncation of vector type
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\CRTHyllian.fx(246, 19): warning X3206: implicit truncation of vector type
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\CRTHyllian.fx(247, 19): warning X3206: implicit truncation of vector type
+
+14:40:14:704 [52656] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Radegast\BulgePinch.fx" in 0.009 s.
+14:40:14:705 [42668] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Fubax\Image.fx" in 0.006 s.
+14:40:14:705 [29832] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\NTSC_RetroArch_NoScanlines.fx" in 0.009 s.
+14:40:14:707 [42756] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\qUINT\qUINT_deband.fx" in 0.005 s.
+14:40:14:707 [41352] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\PD80\PD80_04_Selective_Color.fx" in 0.007 s.
+14:40:14:707 [41172] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Glitch.fx" in 0.005 s.
+14:40:14:708 [34256] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\OtisFX\DirectionalDepthBlur.fx" in 0.012 s.
+14:40:14:708 [42000] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Bloom.fx" in 0.013 s.
+14:40:14:709 [42268] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\CRTKurg.fx" in 0.007 s.
+14:40:14:710 [42580] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\luluco250\MagicHDR.fx" in 0.032 s.
+14:40:14:711 [42668] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Fubax\Interlaced.fx" in 0.005 s.
+14:40:14:712 [29832] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\PAL.fx" in 0.006 s.
+14:40:14:713 [52656] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Radegast\Drunk.fx" in 0.008 s.
+14:40:14:714 [42000] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Border.fx" in 0.004 s.
+14:40:14:714 [41172] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\HighPassSharpen.fx" in 0.006 s.
+14:40:14:715 [34256] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\OtisFX\Emphasize.fx" in 0.007 s.
+14:40:14:716 [42268] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\CRTLottes.fx" in 0.006 s.
+14:40:14:716 [42580] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\luluco250\MBMB.fx" in 0.006 s.
+14:40:14:719 [42756] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\qUINT\qUINT_dof.fx" in 0.011 s.
+14:40:14:719 [29832] | WARN  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\Phosphor.fx" in 0.007 s with warnings:
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\Phosphor.fx(42, 41): warning X3206: implicit truncation of vector type
+
+14:40:14:720 [42000] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Cartoon.fx" in 0.005 s.
+14:40:14:720 [41172] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\HoleFiller.fx" in 0.006 s.
+14:40:14:721 [34256] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\OtisFX\GoldenRatio.fx" in 0.005 s.
+14:40:14:721 [41352] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\PD80\PD80_04_Selective_Color_v2.fx" in 0.014 s.
+14:40:14:722 [42268] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\CRTLottes2.fx" in 0.005 s.
+14:40:14:722 [42668] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Fubax\LensDistort.fx" in 0.011 s.
+14:40:14:727 [42000] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\CAS.fx" in 0.007 s.
+14:40:14:727 [29832] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\PowerVR2.fx" in 0.008 s.
+14:40:14:729 [41172] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\HQ4X.fx" in 0.008 s.
+14:40:14:729 [42668] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Fubax\Letterbox.fx" in 0.006 s.
+14:40:14:729 [42268] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\CRTPi.fx" in 0.007 s.
+14:40:14:729 [42804] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Insane-Shaders\Halftone.fx" in 0.051 s.
+14:40:14:729 [41352] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\PD80\PD80_04_Technicolor.fx" in 0.007 s.
+14:40:14:730 [34256] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\OtisFX\Heightfog.fx" in 0.009 s.
+14:40:14:732 [42756] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\qUINT\qUINT_lightroom.fx" in 0.012 s.
+14:40:14:733 [29832] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\R57_PAL.fx" in 0.005 s.
+14:40:14:735 [42000] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\ChromaticAberration.fx" in 0.007 s.
+14:40:14:736 [41172] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\HSLShift.fx" in 0.006 s.
+14:40:14:736 [42668] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Fubax\LUTTools.fx" in 0.007 s.
+14:40:14:736 [34256] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\OtisFX\MagicBorder.fx" in 0.005 s.
+14:40:14:737 [42268] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\CRTPotatoCool.fx" in 0.007 s.
+14:40:14:738 [41352] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\PD80\PD80_05_Sharpening.fx" in 0.008 s.
+14:40:14:738 [29832] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\RetroCRT.fx" in 0.004 s.
+14:40:14:739 [52656] | ERROR | Failed to compile "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Radegast\RadialSlitScan.fx":
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Radegast\RadialSlitScan.fx(22, 1): error X3004: unrecognized property 'Width'
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Radegast\RadialSlitScan.fx(35, 1): error X3004: unrecognized property 'Height'
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Radegast\RadialSlitScan.fx(22, 1): error X3004: unrecognized property 'Width'
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Radegast\RadialSlitScan.fx(35, 1): error X3004: unrecognized property 'Height'
+
+14:40:14:741 [41172] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Layer.fx" in 0.005 s.
+14:40:14:742 [42000] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\ColorMatrix.fx" in 0.006 s.
+14:40:14:742 [34256] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\OtisFX\MultiLUT.fx" in 0.005 s.
+14:40:14:743 [42268] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\CRTPotatoWarm.fx" in 0.005 s.
+14:40:14:744 [41352] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\PD80\PD80_06_Chromatic_Aberration.fx" in 0.005 s.
+14:40:14:745 [42756] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\qUINT\qUINT_mxao.fx" in 0.012 s.
+14:40:14:745 [42668] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Fubax\MonitorGamma.fx" in 0.008 s.
+14:40:14:746 [29832] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\RGBLCD.fx" in 0.007 s.
+14:40:14:748 [41172] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Levels.fx" in 0.006 s.
+14:40:14:748 [42268] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\CRTRefresh.fx" in 0.005 s.
+14:40:14:751 [42000] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Colourfulness.fx" in 0.008 s.
+14:40:14:751 [29832] | WARN  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\scanlines-abs.fx" in 0.005 s with warnings:
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\scanlines-abs.fx(73, 1): warning X4576: 'PS_ScanlinesAbs': input parameter 'angle' semantic does not match vertex shader one
+
+14:40:14:753 [42756] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\qUINT\qUINT_sharp.fx" in 0.008 s.
+14:40:14:755 [42668] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Fubax\PerfectPerspective.fx" in 0.009 s.
+14:40:14:756 [41352] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\PD80\PD80_06_Depth_Slicer.fx" in 0.011 s.
+14:40:14:756 [41172] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\LevelsPlus.fx" in 0.007 s.
+14:40:14:756 [34256] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\OtisFX\PandaFX.fx" in 0.013 s.
+14:40:14:758 [29832] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\scanlines-fract.fx" in 0.006 s.
+14:40:14:758 [42268] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\CRTSim.fx" in 0.009 s.
+14:40:14:759 [42000] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\CRT.fx" in 0.008 s.
+14:40:14:762 [41172] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\LiftGammaGain.fx" in 0.006 s.
+14:40:14:763 [42756] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\qUINT\qUINT_ssr.fx" in 0.009 s.
+14:40:14:764 [42268] | WARN  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\Deconverge.fx" in 0.005 s with warnings:
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\Deconverge.fx(80, 17): warning X3206: implicit truncation of vector type
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\Deconverge.fx(81, 17): warning X3206: implicit truncation of vector type
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\Deconverge.fx(88, 17): warning X3206: implicit truncation of vector type
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\Deconverge.fx(89, 17): warning X3206: implicit truncation of vector type
+
+14:40:14:764 [42668] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Fubax\Prism.fx" in 0.009 s.
+14:40:14:765 [52656] | ERROR | Failed to compile "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Radegast\SlitScan.fx":
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Radegast\SlitScan.fx(18, 1): error X3004: unrecognized property 'Width'
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Radegast\SlitScan.fx(31, 1): error X3004: unrecognized property 'Height'
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Radegast\SlitScan.fx(18, 1): error X3004: unrecognized property 'Width'
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Radegast\SlitScan.fx(31, 1): error X3004: unrecognized property 'Height'
+
+14:40:14:765 [41352] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\PD80\PD80_06_Film_Grain.fx" in 0.009 s.
+14:40:14:765 [29832] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\Technicolor.fx" in 0.007 s.
+14:40:14:767 [42000] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Curves.fx" in 0.006 s.
+14:40:14:770 [34256] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\FGFX\FGFXFastCascadedSeparableBlur16X.fx" in 0.013 s.
+14:40:14:770 [42268] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\Defocus.fx" in 0.006 s.
+14:40:14:770 [42668] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Fubax\SimpleGrain.fx" in 0.005 s.
+14:40:14:772 [41172] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\LightDoF.fx" in 0.009 s.
+14:40:14:772 [42756] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\PD80\PD80_01A_RT_Correct_Contrast.fx" in 0.009 s.
+14:40:14:773 [29832] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\TVCRTPixels.fx" in 0.006 s.
+14:40:14:773 [42000] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Daltonize.fx" in 0.006 s.
+14:40:14:773 [41352] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\PD80\PD80_06_Luma_Fade.fx" in 0.008 s.
+14:40:14:777 [42668] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Fubax\SunsetFilter.fx" in 0.006 s.
+14:40:14:777 [42268] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\DOSGame.fx" in 0.006 s.
+14:40:14:779 [41172] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\LumaSharpen.fx" in 0.007 s.
+14:40:14:780 [41352] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\PD80\PD80_06_Posterize_Pixelate.fx" in 0.006 s.
+14:40:14:781 [42000] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Deband.fx" in 0.007 s.
+14:40:14:783 [42268] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\EGAfilter.fx" in 0.005 s.
+14:40:14:784 [42756] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\PD80\PD80_01B_RT_Correct_Color.fx" in 0.011 s.
+14:40:14:786 [29832] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\VHS.fx" in 0.012 s.
+14:40:14:787 [41172] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\LUT.fx" in 0.007 s.
+14:40:14:787 [34256] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\FGFX\FGFXLargeScalePerceptualObscuranceIrradiance.fx" in 0.017 s.
+14:40:14:788 [42000] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Denoise.fx" in 0.007 s.
+14:40:14:789 [42756] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\PD80\PD80_01_Color_Gamut.fx" in 0.005 s.
+14:40:14:790 [42668] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Fubax\TiltShift.fx" in 0.012 s.
+14:40:14:791 [42268] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\GTU.fx" in 0.007 s.
+14:40:14:792 [29832] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\VHS_RA.fx" in 0.006 s.
+14:40:14:794 [34256] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\brussell\AreaCopy.fx" in 0.006 s.
+14:40:14:795 [42000] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Detect_menus_and_videos_wrapper.fx" in 0.006 s.
+14:40:14:797 [42268] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\ImageAdjustment.fx" in 0.005 s.
+14:40:14:798 [29832] | WARN  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\vt220.fx" in 0.006 s with warnings:
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\vt220.fx(106, 16): warning X3206: implicit truncation of vector type
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\vt220.fx(107, 14): warning X3206: implicit truncation of vector type
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\vt220.fx(108, 8): warning X3206: implicit truncation of vector type
+
+14:40:14:799 [41172] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\MagicBloom.fx" in 0.011 s.
+14:40:14:801 [42668] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Fubax\Vectorscope.fx" in 0.01 s.
+14:40:14:801 [42000] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\DisplayDepth.fx" in 0.006 s.
+14:40:14:803 [34256] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\brussell\EyeAdaption.fx" in 0.008 s.
+14:40:14:803 [42268] | WARN  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\JPEG.fx" in 0.006 s with warnings:
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\JPEG.fx(79, 29): warning X3206: implicit truncation of vector type
+
+14:40:14:804 [42756] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\PD80\PD80_02_Bloom.fx" in 0.013 s.
+14:40:14:804 [29832] | WARN  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\vt220_frame.fx" in 0.005 s with warnings:
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\vt220_frame.fx(80, 16): warning X3206: implicit truncation of vector type
+
+14:40:14:804 [41172] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Monochrome.fx" in 0.005 s.
+14:40:14:805 [52656] | ERROR | Failed to compile "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Radegast\SplicedRadials.fx":
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Radegast\SplicedRadials.fx(18, 1): error X3004: unrecognized property 'Width'
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Radegast\SplicedRadials.fx(18, 1): error X3004: unrecognized property 'Width'
+
+14:40:14:809 [41352] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Depth3D\SuperDepth3D.fx" in 0.028 s.
+14:40:14:809 [34256] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\brussell\UIDetect.fx" in 0.006 s.
+14:40:14:810 [29832] | WARN  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\vt220_night.fx" in 0.006 s with warnings:
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\vt220_night.fx(164, 16): warning X3206: implicit truncation of vector type
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\vt220_night.fx(165, 14): warning X3206: implicit truncation of vector type
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\vt220_night.fx(166, 8): warning X3206: implicit truncation of vector type
+
+14:40:14:810 [42668] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Fubax\Waveform.fx" in 0.009 s.
+14:40:14:811 [41172] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\NightVision.fx" in 0.006 s.
+14:40:14:811 [42756] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\PD80\PD80_02_Bonus_LUT_pack.fx" in 0.007 s.
+14:40:14:812 [42268] | WARN  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\LeiFX_OA.fx" in 0.008 s with warnings:
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\LeiFX_OA.fx(121, 14): warning X3206: implicit truncation of vector type
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\LeiFX_OA.fx(272, 16): warning X3206: implicit truncation of vector type
+
+14:40:14:815 [34256] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Daodan\AspectRatioComposition.fx" in 0.005 s.
+14:40:14:816 [29832] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\zfast_crt.fx" in 0.005 s.
+14:40:14:817 [42668] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Fubax\ZebraLines.fx" in 0.006 s.
+14:40:14:819 [42268] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\MattiasCRT.fx" in 0.006 s.
+14:40:14:820 [42756] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\PD80\PD80_02_Cinetools_LUT.fx" in 0.008 s.
+14:40:14:820 [42580] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\luluco250\MinimalColorGrading.fx" in 0.103 s.
+14:40:14:820 [42000] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\DOF.fx" in 0.018 s.
+14:40:14:822 [34256] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Daodan\ColorfulPoster.fx" in 0.007 s.
+14:40:14:824 [29832] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\CorgiFX\AspectRatioMultiGrid.fx" in 0.007 s.
+14:40:14:825 [42756] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\PD80\PD80_02_LUT_Creator.fx" in 0.005 s.
+14:40:14:826 [42000] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\DPX.fx" in 0.005 s.
+14:40:14:826 [42580] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\luluco250\MultiFX.fx" in 0.005 s.
+14:40:14:828 [42668] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Insane-Shaders\Bessel_Bloom.fx" in 0.01 s.
+14:40:14:829 [34256] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Daodan\ColorIsolation.fx" in 0.006 s.
+14:40:14:830 [41172] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Nostalgia.fx" in 0.018 s.
+14:40:14:832 [42000] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\FakeHDR.fx" in 0.006 s.
+14:40:14:832 [42756] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\PD80\PD80_03_Color_Space_Curves.fx" in 0.007 s.
+14:40:14:837 [41352] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Depth3D\SuperDepth3D_VR+.fx" in 0.028 s.
+14:40:14:839 [42668] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Insane-Shaders\BilateralComic.fx" in 0.01 s.
+14:40:14:839 [42756] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\PD80\PD80_03_Curved_Levels.fx" in 0.006 s.
+14:40:14:839 [42000] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\FakeMotionBlur.fx" in 0.006 s.
+14:40:14:839 [42580] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\luluco250\NeoBloom.fx" in 0.013 s.
+14:40:14:840 [34256] | WARN  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Daodan\Comic.fx" in 0.01 s with warnings:
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Daodan\Comic.fx(414, 33): warning X3206: implicit truncation of vector type
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Daodan\Comic.fx(416, 17): warning X3206: implicit truncation of vector type
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Daodan\Comic.fx(417, 17): warning X3206: implicit truncation of vector type
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Daodan\Comic.fx(418, 17): warning X3206: implicit truncation of vector type
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Daodan\Comic.fx(419, 17): warning X3206: implicit truncation of vector type
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Daodan\Comic.fx(422, 17): warning X3206: implicit truncation of vector type
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Daodan\Comic.fx(423, 17): warning X3206: implicit truncation of vector type
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Daodan\Comic.fx(424, 17): warning X3206: implicit truncation of vector type
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Daodan\Comic.fx(425, 17): warning X3206: implicit truncation of vector type
+
+14:40:14:842 [41172] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\PPFX_Bloom.fx" in 0.011 s.
+14:40:14:844 [52656] | ERROR | Failed to compile "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Radegast\Swirl.fx":
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Radegast\Swirl.fx(18, 1): error X3004: unrecognized property 'Width'
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Radegast\Swirl.fx(18, 1): error X3004: unrecognized property 'Width'
+
+14:40:14:846 [34256] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Daodan\MeshEdges.fx" in 0.005 s.
+14:40:14:846 [42804] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Insane-Shaders\LocalContrastCS.fx" in 0.019 s.
+14:40:14:846 [42000] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\fastBlur.fx" in 0.007 s.
+14:40:14:846 [42580] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\luluco250\NormalMap.fx" in 0.006 s.
+14:40:14:847 [42756] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\PD80\PD80_03_Filmic_Adaptation.fx" in 0.008 s.
+14:40:14:848 [42668] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Insane-Shaders\BilateralCS.fx" in 0.009 s.
+14:40:14:851 [41172] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\PPFX_Godrays.fx" in 0.009 s.
+14:40:14:851 [42804] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Insane-Shaders\Mouse.fx" in 0.005 s.
+14:40:14:852 [42580] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\luluco250\Overlay.fx" in 0.005 s.
+14:40:14:852 [41352] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\AstrayFX\BloomingHDR.fx" in 0.014 s.
+14:40:14:853 [42756] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\PD80\PD80_03_Levels.fx" in 0.005 s.
+14:40:14:853 [34256] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Daodan\MultiTonePoster.fx" in 0.007 s.
+14:40:14:853 [42000] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\FilmGrain.fx" in 0.007 s.
+14:40:14:853 [52656] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Radegast\TinyPlanet.fx" in 0.009 s.
+14:40:14:860 [42580] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\luluco250\PiecewiseFilmicTonemap.fx" in 0.007 s.
+14:40:14:860 [42000] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\FilmGrain2.fx" in 0.006 s.
+14:40:14:861 [41172] | WARN  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\PPFX_SSDO.fx" in 0.009 s with warnings:
+warning: V__texNoise: another effect (PD80_04_BlacknWhite.fx) already created a texture with the same name but different dimensions
+warning: V__texNoise: another effect (PD80_04_BlacknWhite.fx) already created a texture with a different image file
+
+14:40:14:861 [42756] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\PD80\PD80_03_Shadows_Midtones_Highlights.fx" in 0.007 s.
+14:40:14:862 [41352] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\AstrayFX\Clarity.fx" in 0.009 s.
+14:40:14:862 [34256] | WARN  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Daodan\RemoveTint.fx" in 0.008 s with warnings:
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Daodan\RemoveTint.fx(69, 64): warning X3206: implicit truncation of vector type
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Daodan\RemoveTint.fx(85, 76): warning X3206: implicit truncation of vector type
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Daodan\RemoveTint.fx(100, 94): warning X3206: implicit truncation of vector type
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Daodan\RemoveTint.fx(101, 94): warning X3206: implicit truncation of vector type
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Daodan\RemoveTint.fx(110, 76): warning X3206: implicit truncation of vector type
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Daodan\RemoveTint.fx(111, 76): warning X3206: implicit truncation of vector type
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Daodan\RemoveTint.fx(116, 72): warning X3206: implicit truncation of vector type
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Daodan\RemoveTint.fx(117, 72): warning X3206: implicit truncation of vector type
+
+14:40:14:864 [52656] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Radegast\Wave.fx" in 0.01 s.
+14:40:14:864 [42668] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Insane-Shaders\CMAA_2.fx" in 0.016 s.
+14:40:14:887 [41352] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\AstrayFX\Depth_Cues.fx" in 0.008 s.
+14:40:14:888 [34256] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Daodan\RetroTint.fx" in 0.007 s.
+14:40:14:891 [52656] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Radegast\ZigZag.fx" in 0.009 s.
+14:40:14:895 [34256] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Fubax\AspectRatio.fx" in 0.005 s.
+14:40:14:897 [41172] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\qUINT_rtgi.fx" in 0.024 s.
+14:40:14:897 [42668] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Insane-Shaders\ContrastStretch.fx" in 0.012 s.
+14:40:14:899 [41352] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\AstrayFX\DLAA_Plus.fx" in 0.011 s.
+14:40:14:899 [52656] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\CobraFX\CobraMask.fx" in 0.007 s.
+14:40:14:901 [34256] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Fubax\BeforeAfter.fx" in 0.006 s.
+14:40:14:904 [41172] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\ReflectiveBumpMapping.fx" in 0.007 s.
+14:40:14:906 [42804] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Insane-Shaders\Oilify.fx" in 0.054 s.
+14:40:14:906 [52656] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\CobraFX\Cobra_Mask.fx" in 0.007 s.
+14:40:14:912 [41172] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\rj_sharpen.fx" in 0.007 s.
+14:40:14:912 [41352] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\AstrayFX\Flair.fx" in 0.013 s.
+14:40:14:914 [42000] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\FilmicPass.fx" in 0.011 s.
+14:40:14:921 [52656] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\CobraFX\ColorSort.fx" in 0.014 s.
+14:40:14:924 [42000] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\FineSharp.fx" in 0.01 s.
+14:40:14:932 [42000] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\FXAA.fx" in 0.008 s.
+14:40:14:934 [42804] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Insane-Shaders\ReVeil.fx" in 0.027 s.
+14:40:14:935 [52656] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\CobraFX\ColorSort_CS.fx" in 0.014 s.
+14:40:14:936 [41352] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\AstrayFX\GloomAO.fx" in 0.023 s.
+14:40:14:942 [42804] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Insane-Shaders\SharpContrast.fx" in 0.007 s.
+14:40:14:942 [41352] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\AstrayFX\NFAA.fx" in 0.005 s.
+14:40:14:942 [41172] | ERROR | Failed to compile "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\rt.fx":
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\rt.fx(1115, 1): error X3004: unrecognized property 'AddressU'
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\rt.fx(1124, 1): error X3004: unrecognized property 'AddressU'
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\rt.fx(1115, 1): error X3004: unrecognized property 'AddressU'
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\rt.fx(1124, 1): error X3004: unrecognized property 'AddressU'
+
+14:40:14:947 [52656] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\CobraFX\computeGravity.fx" in 0.011 s.
+14:40:14:949 [42804] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Insane-Shaders\UIMaskCreator.fx" in 0.006 s.
+14:40:14:949 [41172] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Sepia.fx" in 0.006 s.
+14:40:14:954 [52656] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\CobraFX\Droste.fx" in 0.006 s.
+14:40:14:956 [42804] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Insane-Shaders\VRS_Map.fx" in 0.006 s.
+14:40:14:963 [42804] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\luluco250\AdaptiveTonemapper.fx" in 0.007 s.
+14:40:14:875 [42580] | WARN  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\luluco250\Pong.fx" in 0.011 s with warnings:
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\luluco250\FXShaders/Digits.fxh(827, 31): warning X3206: implicit truncation of vector type
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\luluco250\Pong.fx(244, 38): warning X3206: implicit truncation of vector type
+
+14:40:14:964 [52656] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\CobraFX\Gravity.fx" in 0.01 s.
+14:40:14:970 [42580] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\luluco250\RetroFog.fx" in 0.006 s.
+14:40:14:974 [41172] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\SMAA.fx" in 0.024 s.
+14:40:14:974 [41352] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\AstrayFX\RadiantGI.fx" in 0.032 s.
+14:40:14:976 [42580] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\luluco250\SCurve.fx" in 0.005 s.
+14:40:14:977 [52656] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\CobraFX\Gravity_CS.fx" in 0.012 s.
+14:40:14:983 [52656] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\CobraFX\RealLongExposure.fx" in 0.006 s.
+14:40:14:984 [42580] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\luluco250\Sketch.fx" in 0.007 s.
+14:40:14:984 [41352] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\AstrayFX\Smart_Sharp.fx" in 0.009 s.
+14:40:14:989 [52656] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\VRToolkit\VRToolkit.fx" in 0.005 s.
+14:40:14:993 [41172] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Splitscreen.fx" in 0.018 s.
+14:40:14:993 [42580] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\luluco250\TrackingRays.fx" in 0.008 s.
+14:40:14:996 [42804] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\luluco250\ArcaneBloom.fx" in 0.032 s.
+14:40:15:001 [42804] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\luluco250\ArtisticVignette.fx" in 0.005 s.
+14:40:15:003 [42580] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\luluco250\UnrealLens.fx" in 0.01 s.
+14:40:15:007 [42804] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\luluco250\AspectRatioSuite.fx" in 0.005 s.
+14:40:15:013 [42580] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\luluco250\Unsharp.fx" in 0.009 s.
+14:40:15:021 [42580] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\luluco250\VirtualResolution.fx" in 0.007 s.
+14:40:15:028 [42580] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\luluco250\WhitepointFixer.fx" in 0.006 s.
+14:40:15:039 [42580] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\3DFX.fx" in 0.01 s.
+14:40:15:047 [42580] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\BasicCRT.fx" in 0.007 s.
+14:40:15:053 [42580] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\Cathode.fx" in 0.005 s.
+14:40:15:060 [42580] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\Chromaticity.fx" in 0.006 s.
+14:40:15:068 [42580] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\ChromaticitySimplified.fx" in 0.007 s.
+14:40:15:071 [42804] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\luluco250\Checkerboard.fx" in 0.063 s.
+14:40:15:076 [42580] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\cmyk_halftone_dot.fx" in 0.007 s.
+14:40:15:078 [42804] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\luluco250\ColorLab.fx" in 0.006 s.
+14:40:15:082 [42580] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\ColorMAME.fx" in 0.005 s.
+14:40:15:085 [42804] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\luluco250\CRT_Lottes.fx" in 0.007 s.
+14:40:15:091 [42580] | WARN  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\CoolRetroTerminal.fx" in 0.009 s with warnings:
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\CoolRetroTerminal.fx(167, 20): warning X3206: implicit truncation of vector type
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\CoolRetroTerminal.fx(168, 21): warning X3206: implicit truncation of vector type
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\CoolRetroTerminal.fx(174, 25): warning X3206: implicit truncation of vector type
+C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\CoolRetroTerminal.fx(194, 24): warning X3206: implicit truncation of vector type
+
+14:40:15:093 [42804] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\luluco250\CRT_Yee64.fx" in 0.008 s.
+14:40:15:097 [42580] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\CRT-Frutbunn.fx" in 0.005 s.
+14:40:15:099 [42804] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\luluco250\CRT_Yeetron.fx" in 0.005 s.
+14:40:15:103 [42580] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch\crt-nes-mini.fx" in 0.005 s.
+14:40:15:107 [42804] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\luluco250\Cursor.fx" in 0.007 s.
+14:40:15:113 [42804] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\luluco250\DepthAlpha.fx" in 0.006 s.
+14:40:15:119 [52656] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\akgunter\crt-royale.fx" in 0.129 s.
+14:40:15:119 [42804] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\luluco250\Dither.fx" in 0.005 s.
+14:40:15:125 [42804] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\luluco250\Flashlight.fx" in 0.005 s.
+14:40:15:130 [42804] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\luluco250\FlexibleCA.fx" in 0.004 s.
+14:40:15:137 [42804] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\luluco250\FocalDOF.fx" in 0.006 s.
+14:40:15:144 [42804] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\luluco250\FramerateLimiter.fx" in 0.006 s.
+14:40:15:154 [42804] | INFO  | Successfully compiled "C:\Users\James\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\luluco250\HexLensFlare.fx" in 0.009 s.
+14:40:16:751 [41680] | ERROR | Source "bluenoise.png" for texture 'V__BlueNoise__BlueNoiseTex' was not found in any of the texture search paths!
+14:40:16:754 [41680] | ERROR | Source "bluenoise.png" for texture 'V__JitterTex' was not found in any of the texture search paths!
+14:40:16:755 [41680] | ERROR | Source "gravityrng.png" for texture 'V__texGravitySeedMap2' was not found in any of the texture search paths!
+14:40:16:756 [41680] | ERROR | Source "gravity_noise.png" for texture 'V__COBRA_GRV__TEX_GravitySeedMapExt' was not found in any of the texture search paths!
+14:40:16:756 [41680] | ERROR | Source "gravity_noise.png" for texture 'V__COBRA_XGRV__TEX_GravitySeedMap2' was not found in any of the texture search paths!
+14:40:18:818 [41680] | INFO  | Redirecting CreateDXGIFactory1(riid = {770AAE78-F26F-4DBA-A829-253C83D1B387}, ppFactory = 0000008EF967EE10) ...
+14:41:28:501 [54512] | INFO  | Redirecting RegisterClassW(lpWndClass = 0000008E818FF760 { "Cfx_GlobalInputWindow", style = 0 }) ...
