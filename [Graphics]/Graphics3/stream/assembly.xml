@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="2.2" id="{69C69694-0AE6-45AB-8F58-A5DC5F4B8AF7}" target="Five">
+<metadata>
+<name>T</name>
+<version>
+<major>0</major>
+<minor>69</minor>
+<tag>NoPixel</tag>
+</version>
+<author>
+<displayName>qwef</displayName>
+<actionLink></actionLink>
+<web></web>
+<twitter>wqef</twitter>
+</author>
+<description>qwef</description>
+</metadata>
+<colors>
+<headerBackground useBlackTextColor="False">$FF000000</headerBackground>
+<iconBackground>$FF000000</iconBackground>
+</colors>
+<content>
+<add source="nopixel-extra-vegetation.rpf">update\x64\dlcpacks\nopixel-extra-vegetation\dlc.rpf</add>
+</content>
+</package>
