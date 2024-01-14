@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div id="video-container">
+        <video id="fullscreen-video" autoplay muted loop>
+            <!-- Replace "your-video.mp4" with the actual path to your MP4 file -->
+            <source src="video.mp4" type="video/mp4">
+        </video>
+    </div>
+        <!-- MP3 Audio -->
+        <audio id="audioPlayer" controls>
+            <source src="audio.mp3" type="audio/mp3">
+        </audio>
+        <!-- Logo Image -->
+        <img src="logo.png" alt="Logo" id="logo">
+    </div>
+
+    <script>
+        // Replace "your-audio-file.mp3" with the path to your MP3 file
+        var audioPlayer = document.getElementById('audioPlayer');
+        audioPlayer.autoplay = true;
+    </script>
+    <script src="scripts.js"></script>
+</body>
+
+</html>
